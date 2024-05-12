@@ -60,7 +60,7 @@ h2 {
 .hero {
   inline-size: 100%;
   background-color: #e9ded4;
-  background-image: url(./images/top.webp);
+  background-image: url(../images/top.webp);
   background-size: cover;
   background-position: bottom center;
   background-repeat: no-repeat;
@@ -267,7 +267,7 @@ h2 {
   position: absolute;
   width: 500px;
   height: 254px;
-  background-image: url(./images/plane.webp);
+  background-image: url(../images/plane.webp);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: right;
@@ -316,7 +316,7 @@ h2 {
 }
 
 .stage__item-dt {
-  background-image: url(./images/bg.webp);
+  background-image: url(../images/bg.webp);
   background-size: cover;
   padding: 18px;
   display: flex;
@@ -639,7 +639,7 @@ h2 {
   }
 
   .hero {
-    background-image: url(./images/top-m.webp);
+    background-image: url(../images/top-m.webp);
     padding: 19px 0 80%;
   }
 
@@ -788,7 +788,7 @@ h2 {
   }
 
   .stage__slide {
-    background-image: url(./images/bg.webp);
+    background-image: url(../images/bg.webp);
     padding: 62px 30px 34px 20px;
   }
 
