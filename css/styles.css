@@ -42,8 +42,8 @@ ol {
 
 .content {
   max-inline-size: 1366px;
-  padding-left: 30px;
-  padding-right: 30px;
+  padding-left: 40px;
+  padding-right: 40px;
   margin: auto;
   box-sizing: content-box;
   overflow: hidden;
