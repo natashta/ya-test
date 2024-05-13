@@ -42,6 +42,8 @@ ol {
 
 .content {
   max-inline-size: 1366px;
+  padding-left: 30px;
+  padding-right: 30px;
   margin: auto;
   box-sizing: content-box;
   overflow: hidden;
@@ -151,7 +153,7 @@ h2 {
 }
 
 .tournament__lection {
-  padding: 80px 0 50px;
+  padding: 80px 0 40px;
   display: flex;
   gap: 50px;
   align-items: center;
@@ -258,7 +260,7 @@ h2 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: 112px 112px 136px;
-  gap: 24px;
+  gap: 20px;
   position: relative;
 }
 
@@ -272,8 +274,8 @@ h2 {
   background-size: contain;
   background-position: right;
   z-index: 2;
-  right: -60px;
-  bottom: 0;
+  right: -70px;
+  bottom: -10px;
   transition: all 0.5s ease;
   transform: translateX(60px) scale(0.7);
 }
